@@ -3,7 +3,7 @@ img {
 }
 body {
     text-align:center;
-    font-family:'Times New Roman';
-    background: 'grey';
-    color: goldenrod;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: rgb(214, 156, 11);
+    color: rgb(160, 22, 210);
 }
